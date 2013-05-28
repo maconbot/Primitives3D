@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primitives3D.Windows", "Primitives3D.Windows\Primitives3D.Windows.csproj", "{23F624B7-9CA5-4F98-B515-54188B52747C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{F3612ABA-0EA7-4CE5-8803-6D3744E3AFCD}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23F624B7-9CA5-4F98-B515-54188B52747C}.Debug|x86.ActiveCfg = Debug|x86
+		{23F624B7-9CA5-4F98-B515-54188B52747C}.Debug|x86.Build.0 = Debug|x86
+		{23F624B7-9CA5-4F98-B515-54188B52747C}.Release|x86.ActiveCfg = Release|x86
+		{23F624B7-9CA5-4F98-B515-54188B52747C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
